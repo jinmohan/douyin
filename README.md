@@ -17,20 +17,13 @@
 、[`Pinia`](https://pinia.vuejs.org/)实现。数据保存在项目本地，通过 [`axios-mock-adapter`](https://github.com/ctimmerm/axios-mock-adapter) 库拦截Api 并返回本地json数据，模拟真实后端请求
 
 
-<div>
-<img width="150px" src='docs/imgs/1.gif' />
-<img width="150px" src='docs/imgs/2.gif' />
-<img width="150px" src='docs/imgs/3.gif' />
-<img width="150px" src='docs/imgs/4.gif' />
-<img width="150px" src='docs/imgs/5.gif' />
-</div>
 
 ## 在线访问
 
 [//]: # (Gitee Pages: [https://zyronon.gitee.io/douyin/]&#40;https://zyronon.gitee.io/douyin/&#41;&#40;中国地区推荐访问这个地址&#41;   )
 [//]: # (注意：Gitee Pages现在无法更新，代码不是最新的。如果你能翻墙推荐访问下面地址  )
 
-Github Pages: [https://dy.ttentau.top/](https://dy.ttentau.top/)  
+Github Pages: [https://jinmohan.github.io/douyin/](https://jinmohan.github.io/douyin/)  
 
 [//]: # (Gitee pages: [https://dy.ttentau.top/]&#40;https://dy.ttentau.top/&#41; &#40;中国地区推荐访问这个地址&#41;  )
 [//]: # (Github pages: [https://zyronon.github.io/douyin/]&#40;https://zyronon.github.io/douyin/&#41;  )
